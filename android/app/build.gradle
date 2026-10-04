@@ -23,7 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "com.example.navigo4"
+    namespace "com.example.pak_riders"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
